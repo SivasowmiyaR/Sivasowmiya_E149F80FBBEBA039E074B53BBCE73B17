@@ -1,0 +1,9 @@
+# include< stdio>
+# include< conio>
+# include< stdio.h>
+(
+  sum a=20;
+  sum b=10;
+  sum a+ b;
+  sum(c);
+  )
